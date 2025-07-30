@@ -1,0 +1,17 @@
+{
+  "apiID": "alifaas03__c__function_aade77of3woa2",
+  "apiName": "node1",
+  "label": {
+    "zh_CN": "node1",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "isPublicAPI": false,
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}

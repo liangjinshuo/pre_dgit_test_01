@@ -1,0 +1,16 @@
+{
+  "apiID": "alifaas03__c__function_aadirhlhmrwcu",
+  "apiName": "github_node20",
+  "label": {
+    "zh_CN": "github_node20",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
